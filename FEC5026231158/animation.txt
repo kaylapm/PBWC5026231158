@@ -1,0 +1,17 @@
+CSS Animation :
+Memungkinkan kita untuk membuat animasi tanpa harus menggunakan
+java script.
+
+Dalam pembuatan animasi, kita memerlukan keyframes
+
+keyframes
+- suatu properties yang digunakan untuk menentukan gaya animasi
+  untuk di setiap frame nya
+- Animasi ini akan berubah sesuai dengan waktu tertentu (dengan
+  mengikuti frame yang kita sudah tentukkan)
+
+Delay Animation
+Untuk men-delay jalannya suatu animasi
+
+Animation iteration
+animation-iteration-count : infinite;

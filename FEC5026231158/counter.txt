@@ -1,0 +1,27 @@
+1. burger
+2. pizza
+3. roti
+4. puding
+
+Automatic Numbering with Counters
+CSS counters properties : 
+counter-reset -> membuat atau mengatur ulang nilai satu atau lebih counter ke nilai awalnya
+counter-increment -> menambah nilai satu atau lebih counter setiap elemen atau content muncul
+content -> ::before dan :: after
+Before :
+1. burger
+2. pizza
+3. roti
+4. puding
+
+after :
+burger .1
+pizza .2
+
+counter() atau counters()
+counter () untuk penomoran sederhana -> 1,2,3 atau a,b,c
+counters() untuk penomoran yang bertingkat -> 1.1, 1.2.1
+
+Nesting Counters
+Untuk penomoran otomatis yang berulang, dan bisa menggunakan counters
+sebagai cara yang lebih efisien untuk penomoran bertingkat
